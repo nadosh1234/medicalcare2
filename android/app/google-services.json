@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077828978407",
+    "project_id": "lab-pro-cb8cb",
+    "storage_bucket": "lab-pro-cb8cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077828978407:android:c9b96df3915e108a37c442",
+        "android_client_info": {
+          "package_name": "com.example.untitled12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeZ6wKKCJSbR-5RdkDEuRknFbCPLubgOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
